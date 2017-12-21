@@ -1,4 +1,3 @@
-//DIMITRIS MORAITIDIS, 3100240
 
 import writers.WriteSchedule;
 import algorithm.Schedule;
